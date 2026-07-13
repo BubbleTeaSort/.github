@@ -18,10 +18,10 @@
       </td>
       <td align="center" width="50%">
         <img src="https://avatars.githubusercontent.com/u/106998947?v=4" width="40%" style="border-radius:50%;" />
-        <h2>david baszucki</h2>
+        <h2>Talus</h2>
         <p>
-          ✨ Pronouns: a/b/c<br>
-          💻 Languages: a • b<br>
+          ✨ Pronouns: he/him/his<br>
+          💻 Languages: TypeScript • Python • Java<br>
         </p>
       </td>
     </tr>

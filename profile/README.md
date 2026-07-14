@@ -62,5 +62,13 @@
         <img src="https://github-profile-summary-cards-peach-pi.vercel.app/api/cards/problems-per-language?username=Snorelaxrules&theme=github_dark" />
       </td>
     </tr>
+    <tr>
+      <td>
+        <img src="http://github-profile-summary-cards-peach-pi.vercel.app/api/cards/stats-leetcode?username=angiebaby&theme=github_dark" />
+      </td>
+      <td>
+        <img src="http://github-profile-summary-cards-peach-pi.vercel.app/api/cards/stats-leetcode?username=Snorelaxrules&theme=github_dark" />
+      </td>
+    </tr>
   </table>
 </div>

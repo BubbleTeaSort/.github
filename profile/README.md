@@ -15,7 +15,7 @@
         <h2>Angelina</h2>
         <p>
           ✨ Pronouns: she/her/hers<br>
-          💻 Languages: C# • Python<br>
+          💻 Languages: C# • Python • JavaScript<br>
         </p>
       </td>
       <td align="center" width="50%">

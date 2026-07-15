@@ -9,7 +9,9 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://avatars.githubusercontent.com/u/209641948?v=4" width="40%" style="border-radius:50%;" />
+        <a href="https://github.com/AlinaWan">
+          <img src="https://avatars.githubusercontent.com/u/209641948?v=4" width="40%" style="border-radius:50%;" />
+        </a>
         <h2>Angelina</h2>
         <p>
           ✨ Pronouns: she/her/hers<br>
@@ -17,7 +19,9 @@
         </p>
       </td>
       <td align="center" width="50%">
-        <img src="https://avatars.githubusercontent.com/u/106998947?v=4" width="40%" style="border-radius:50%;" />
+        <a href="https://github.com/Snorelaxrules">
+          <img src="https://avatars.githubusercontent.com/u/106998947?v=4" width="40%" style="border-radius:50%;" />
+        </a>
         <h2>Talus</h2>
         <p>
           ✨ Pronouns: he/him/his<br>

@@ -34,8 +34,8 @@
         <h2>Angelina</h2>
         <p>
           ✨ Pronouns: she/her/hers<br>
-          🌸 Favorite Drink:<br>
-          🎮 Current Hyperfixation: Talus!<br>
+          🌸 Favorite Drink: Mango Pomelo Sago<br>
+          🎮 Current Hyperfixation: Talus <3<br>
           💻 Languages: C# • Python • JavaScript<br>
           🌺 Role: Chief Bubble Brewer<br>
         </p>
